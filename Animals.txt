@@ -5,4 +5,5 @@ Pidgeon
 Cat
 Otter
 Bear
-Axolotl 
+Axolotl
+Beaver 
