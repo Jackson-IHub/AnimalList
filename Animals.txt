@@ -1,0 +1,8 @@
+Dog
+Hamster
+Owl
+Pidgeon
+Cat
+Otter
+Bear
+Axolotl 
